@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Cybercom</string>
+    <string name="search_label">search</string>
+    <string name="login_label">Login</string>
 </resources>
